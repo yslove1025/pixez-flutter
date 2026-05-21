@@ -26,3 +26,4 @@ jobs:
         with:
           name: pixez-ios.ipa
           path: build/ios/iphoneos/pixez-ios.ipa
+          retention-days: 7
